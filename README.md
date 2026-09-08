@@ -1,7 +1,9 @@
 # DIKWP-MESH8.1 TRACE81
 
-**Open Supply-Chain Evidence Passport and Rule-Resilience System**  
-**Prove the chain, not just manage it.**
+Created by Yucong Duan (段玉聪).
+
+Open Supply-Chain Evidence Passport and Rule-Resilience System  
+Prove the chain, not just manage it.
 
 TRACE81 helps exporters, importers, buyers, counsel, auditors, financial institutions, insurers, and industrial parks organize fragmented supplier records, lot events, origin evidence, labour due diligence, commercial records, and logistics documents into a traceable, versioned, portable, and reviewable evidence package.
 
@@ -45,7 +47,7 @@ python dist/TRACE81.pyz --help
 
 ## Official snapshot boundary
 
-The included `US-UFLPA-2026-08-03` pack contains only the **43 unique additions effective August 3, 2026**. It is not the complete 187-entity list and must not be used as the sole screening source. Production deployments must synchronize current official sources, importer records, CBP guidance, and case-specific legal advice.
+The included `US-UFLPA-2026-08-03` pack contains only the 43 unique additions effective August 3, 2026. It is not the complete 187-entity list and must not be used as the sole screening source. Production deployments must synchronize current official sources, importer records, CBP guidance, and case-specific legal advice.
 
 ## Commercial layer
 
